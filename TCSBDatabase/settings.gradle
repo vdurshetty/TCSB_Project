@@ -1,0 +1,2 @@
+include ':TCSBUtil'
+project(':TCSBUtil').projectDir = new File(settingsDir, '../TCSBUtil')

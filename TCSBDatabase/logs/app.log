@@ -1,0 +1,8 @@
+2018-03-20 21:37:30,036 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "postgres"
+2018-03-20 21:38:09,877 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "tcsb"
+2018-03-20 21:38:19,078 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "tcsb"
+2018-03-20 21:39:00,541 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "pgsql"
+2018-03-20 21:39:11,978 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "pgsql"
+2018-03-20 21:40:35,255 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "tcsb"
+2018-03-20 21:40:49,537 ERROR c.s.t.d.u.JdbcConnection [main] Connection Failed! Check output console :FATAL: password authentication failed for user "TCSB"
+2018-03-20 22:00:36,359 ERROR c.s.t.d.t.UserDAOTest [main] In User DAO  Test
